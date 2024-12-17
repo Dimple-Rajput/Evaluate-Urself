@@ -1,0 +1,21 @@
+body{
+
+    background-color: aqua;
+}
+.second{
+    text-align: center;
+   
+    margin:30px;
+    font-size: 30px;
+    
+}
+.top{
+    background-color:blue;
+    color:yellowgreen;
+}
+.third{
+    background-color:lightblue;
+    height:300px;
+    width:1520px;
+}
+.pt-3-half { padding-top: 1.4rem; }
