@@ -1,0 +1,44 @@
+
+body{
+    background-color: turquoise;
+    background-image: url("gr3.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.row{
+    background-color:skyblue;
+    height:200px;
+    width:300px;
+    background-image: url("ty.jpg");
+    background-repeat: no-repeat;
+    margin-top: 60px;
+  margin-left: 550px;
+  padding:30px;
+}
+
+
+.column{
+    background-color:skyblue;
+    background-image: url("clk.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height:200px;
+    width:300px;
+padding: 30px;
+margin:4px;
+    margin-left:550px;
+}
+.box{
+    display:inline-block;
+}
+h1{
+    text-align: center;
+    color:darkblue;
+    
+}
+.tt{
+    border-radius: 50%;
+    background-color: aqua;
+}
+

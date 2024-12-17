@@ -1,0 +1,58 @@
+body{
+    background-image: url('touch.jpg');
+    background-repeat: no-repeat;
+    background-size: 40%;
+    height:20px;
+    background-color: rgb(19, 31, 31);
+ 
+   
+
+}
+p{
+    color: white;
+}
+.op{
+   
+}
+.img{
+
+  
+    margin-left: 80px;
+}
+.cs{
+    
+    padding:10px;
+}
+.it{
+ padding: 20px;
+}
+
+.ec{
+   padding:10px; 
+}
+/**.cs{
+    margin-top: 120px;
+    margin-left: 1200px;;
+}.it{
+    margin-top: 12px;
+    margin-left: 1200px;;
+}.ec{
+    margin-top: 12px;
+    margin-left: 1200px;;
+}**/
+.cs{
+   
+    height: 20px;
+}
+.it{
+   
+}
+.ec{
+   
+}
+.button{
+  
+    margin-left:700px;
+
+    
+}

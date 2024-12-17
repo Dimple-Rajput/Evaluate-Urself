@@ -1,0 +1,49 @@
+h1{
+  font-size: 60px;
+  color:brown;
+
+margin-right: 200px;
+
+ width:400px;
+
+}
+body{
+    background-image: url('ghj.png');
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  margin:0px;
+  background-color: lightseagreen;
+
+}
+.ab{
+    margin-top: -3px;
+    margin-left: 260px;
+    margin-right:300px;
+    width:800px;
+    background-color:skyblue;
+    text-align: center;
+    padding:90px;
+    height:500px;
+    
+}
+p{
+    text-align: center;
+}
+h4{
+    margin-top: 0px;
+    text-align: left;
+   
+    font-size: 20px;
+}
+.rg{
+    margin:70px;
+    margin-left: 580px;
+    margin-top: 20px;;
+}
+.top{
+  
+    width:200px;
+}
+
+
