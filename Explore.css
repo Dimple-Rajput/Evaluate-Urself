@@ -1,0 +1,64 @@
+body{
+    background-color: aquamarine;
+}
+.first{
+    text-align: center;
+    margin:30px;
+}
+.firsth{
+    text-align: center;
+     height:30px;
+    background-color: yellow;
+}
+.second{
+    text-align: center;
+ 
+    background-color: yellow;
+    height:30px;
+    width:1445px;
+}
+.three{
+    background-color:url(''); 
+    height:300px;
+    width:1445px;
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 20px;
+}
+p{
+    font-size: 15px;
+}
+h1{
+    text-align: center;
+}
+
+/* Column container */
+.row {  
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  /* Create two unequal columns that sits next to each other */
+  /* Sidebar/left column */
+  .side {
+    flex: 30%;
+    background-color: #f1f1f1;
+    padding: 20px;
+  }
+  
+  /* Main column */
+  .main {   
+    flex: 70%;
+    background-color: white;
+    padding: 20px;
+  }
+  
+  /* Fake image, just for this example */
+  .fakeimg {
+    background-color: #aaa;
+    width: 100%;
+    padding: 20px;
+  }

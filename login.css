@@ -1,0 +1,33 @@
+.log{
+    width:320px;
+    padding:50px;
+    border:5px solid gray;
+    margin:0px;
+    height:550px;
+    border-radius: 30%;
+    margin-left: 500px;
+    background-image: url('download2.jpg');  
+    background-repeat: no-repeat;
+  
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  
+
+}
+.log2{
+
+    margin-left:80px;
+    margin-top:150px;
+   
+
+}
+body{
+
+    background-image: url('kl.jpg');  
+    background-repeat: no-repeat;
+  
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}

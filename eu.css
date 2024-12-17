@@ -1,0 +1,70 @@
+.top{
+
+    margin-left: 600px;
+    font-size: 30px;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.login{
+
+      height:200px;
+      background-color:rgb(250, 235, 235);
+      
+
+}
+
+.log{
+    text-align: center;
+    padding:20px;
+    
+}
+.button{
+    border-radius: 490px;
+    border-color: brown;
+    background-color: aqua;
+    font-size: xx-large;
+}
+.arrange{
+     margin-top: 25px;
+     padding:78px;
+     font-size:18px;
+     
+    text-align: center;
+    height:300px;
+    width:1524px;
+    background-color: white;
+}
+.buton{
+    border-radius: 10%;
+    
+    background-image: url('jkl.jpg');
+}
+.footer{
+   background-color: black;
+    height:70px;
+    width:1523px;
+    text-align: center;
+    color:aliceblue;
+    padding: 54px;
+}
+.text{
+
+    color:white;
+}
+.ro1{
+    text-align: center;
+    height:400px;
+    margin-top: 200px;
+    padding:60px;
+    
+}
+.con{
+
+    text-align: center;
+}
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+  }
